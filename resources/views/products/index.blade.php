@@ -50,7 +50,7 @@
     @endif
 
     <table style="margin-top: 3rem;" class="table table-bordered">
-        <tr>
+        <tr> 
             <th>Product name</th>
             <th>Quantity in stock</th>
             <th>Price per item</th>
